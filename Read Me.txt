@@ -1,3 +1,0 @@
-student-mat.csv File with data
-Script Model R script for data modeling
-Paper Document with literature and results of model
